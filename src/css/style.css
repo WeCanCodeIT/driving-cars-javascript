@@ -43,4 +43,6 @@
     padding-right:50px;
     font-size: 200px;
 }
-
+.hidden{
+    display: none;
+}
